@@ -1,1 +1,20 @@
-this is common file1
+1.  Line One - Common
+2.  Line Two - Common
+3.  Line Three - Common
+4.  Feature Line A - Different
+5.  Feature Line B - Different
+6.  Line Six - Common
+7.  Feature Line C - Different
+8.  Line Eight - Common
+9.  Line Nine - Common
+10. Feature Line D - Different
+11. Line Eleven - Common
+12. Feature Line E - Different
+13. Line Thirteen - Common
+14. Line Fourteen - Common
+15. Feature Line F - Different
+16. Line Sixteen - Common
+17. Line Seventeen - Common
+18. Feature Line G - Different
+19. Line Nineteen - Common
+20. Line Twenty - Common
